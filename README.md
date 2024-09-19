@@ -4,4 +4,4 @@ Fitur Login
 Alur Fitur Login
 1. Memasukan Email dan Pw
 2. Memvalidasi masukan
-3. menampilkan halaman
+3. menampilkan halaman Home
